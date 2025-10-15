@@ -17,7 +17,7 @@ This project includes a simple Python demo script that prints a message.
    cd Lab2-task-repo
    
 3. Run the demo script:
-    bash
+   
    python3 demoscript.py
    
 
